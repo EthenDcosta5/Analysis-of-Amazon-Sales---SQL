@@ -48,9 +48,9 @@ Find products categorized under "Accessories."
 
 ## Usage
 
-1. **Set Up Your Database:** Ensure your database includes the relevant tables (`products` and `reviews`) with the necessary columns.
+1. **Set Up Your Database:** Ensure your database includes the relevant tables with the necessary columns.
 
-2. **Run Queries:** Execute these queries in your SQL environment to analyze your data. Adjust table and column names as needed to match your database schema.
+2. **Run Queries:** Execute these queries(refer project.sql) in your SQL environment to analyze your data. Adjust table and column names as needed to match your database schema.
 
 3. **Review Results:** Use the results from these queries to gain insights into product pricing, discounts, and review content.
 
