@@ -1,7 +1,3 @@
-Sure! Here's a README file without the SQL syntax:
-
----
-
 # Amazon Sales Analysis Using SQL Queries
 
 ## Overview
